@@ -13,3 +13,5 @@ To **discover drivers**, investigate what stimulates tension, and describe what'
 When passing on a driver to another domain, it is often enough to communicate what is happening and why you think it matters (the effect on the organization). Let those responsible think about what's needed.
 
 ![Navigate via Tension, Describe Organizational Drivers, Respond To Organizational Drivers](img/process/navigate-describe-respond.png)
+
+If you use S3 in open source community, don't drop non-organization drivers, send it to community.
